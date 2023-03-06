@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+
+header {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+div {
+  
+  padding-left: 10%;
+  float: left;
+  background-color: red;
+}
+h3 {
+  text-align: center;
+}
